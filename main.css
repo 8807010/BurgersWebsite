@@ -97,19 +97,15 @@ img {
 }
 
 .promo-left {
-  background-image: url('./../image/promo-left.png');
+  background-image: url('./image/promo-left.png');
   padding: 116px 50px;
   /* background-position: center; */
   /* background-repeat: no-repeat; */
   /* background-color:#0c4c7b; */
 }
 
-.promo-left > p {
-  margin-bottom: 10px;
-}
-
 .promo-right {
-  background-image: url('./../image/promo-right.png');
+  background-image: url('./image/promo-right.png');
   padding: 102px 50px;
   /* background-position: center; */
   /* background-repeat: no-repeat; */
@@ -118,6 +114,10 @@ img {
 
 .promo-right > p {
   margin-bottom: 30px;
+}
+
+.promo-left > p {
+  margin-bottom: 10px;
 }
 
 .sale {

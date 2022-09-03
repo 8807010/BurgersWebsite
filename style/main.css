@@ -97,7 +97,7 @@ img {
 }
 
 .promo-left {
-  background-image: url(/image/promo-left.png);
+  background-image: url(./image/promo-left.png);
   padding: 116px 50px;
 }
 
@@ -106,7 +106,7 @@ img {
 }
 
 .promo-right {
-  background-image: url(/image/promo-right.png);
+  background-image: url(./image/promo-right.png);
   padding: 102px 50px;
 }
 
